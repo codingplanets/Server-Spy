@@ -1,8 +1,5 @@
 # Server-Spy
-This is for finding out where attackers   |
-# |   are trying to bruteforce or just simply   |
-# |   trying to attack your server. If you're   |
-# |   intrested in a version two show support  
+Server-Spy is used for finding out where attackers are trying to bruteforce or just simply trying to attack your server. This has only been tested on CentOS 6.8. You will need root to execute Server-Spy.
 ## Getting Started
 
 You will need a few different modules installed to execute Server-Spy.
